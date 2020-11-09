@@ -1,0 +1,3 @@
+graft banananation
+global-exclude *.py[cod] __pycache__ *.so *.ipynb
+recursive-exclude  banananation/jupy *
